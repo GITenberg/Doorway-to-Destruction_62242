@@ -1,0 +1,32 @@
+_repo: Doorway-to-Destruction_62242
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doolin, Joseph
+    alias: Doolin, Joseph Patrick
+    birthdate: 1896
+    deathdate: 1967
+    gutenberg_agent_id: '51844'
+    url: http://www.gutenberg.org/2009/agents/51844
+creator:
+  author:
+    agent_name: Hatfield, Garold S.
+    gutenberg_agent_id: '51845'
+    url: http://www.gutenberg.org/2009/agents/51845
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Inventors -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: Doorway to Destruction
+url: http://www.gutenberg.org/ebooks/62242
