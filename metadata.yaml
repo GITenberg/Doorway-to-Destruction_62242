@@ -1,5 +1,5 @@
 _repo: Doorway-to-Destruction_62242
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doolin, Joseph
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1967
     gutenberg_agent_id: '51844'
     url: http://www.gutenberg.org/2009/agents/51844
+covers:
+- cover_type: archival
+  image_path: 62242-h/images/cover.jpg
 creator:
   author:
     agent_name: Hatfield, Garold S.
     gutenberg_agent_id: '51845'
     url: http://www.gutenberg.org/2009/agents/51845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62242#Doorway-to-Destruction
 gutenberg_issued: '2020-05-26'
 gutenberg_type: Text
 identifiers:
